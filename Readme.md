@@ -2,7 +2,7 @@
 
 - ![Windows](https://img.shields.io/badge/Windows-10-272727?style=for-the-badge&logo=Windows)
 - ![VSCode](https://img.shields.io/static/v1?label=VSCode&message=User&style=for-the-badge&color=272727&logo=Visual-Studio-Code)
-
+- ![Brave](https://img.shields.io/badge/Brave-272727?style=for-the-badge&logo=Brave)
 
 
 ## Stats
