@@ -3,7 +3,6 @@
 - ![Windows](https://img.shields.io/badge/Windows-10-272727?style=for-the-badge&logo=Windows)
 - ![VSCode](https://img.shields.io/static/v1?label=VSCode&message=User&style=for-the-badge&color=272727&logo=Visual-Studio-Code)
 - ![Brave](https://img.shields.io/static/v1?label=Brave&message=User&style=for-the-badge&color=272727&logo=Brave)
-- [Kali](https://img.shields.io/static/v1?label=Kali&message=User&style=for-the-badge&color=272727&logo=Kali)
 
 
 ## Stats
