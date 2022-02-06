@@ -1,6 +1,6 @@
 # General
 ![Brave](https://img.shields.io/badge/Brave-FD2424?style=for-the-badge&logo=Brave&logoColor=white)   
-![Website](https://img.shields.io/badge/d3vil.tech-FD2424?style=for-the-badge&logo=About.me&logoColor=white)  
+[![Website](https://img.shields.io/badge/d3vil.tech-FD2424?style=for-the-badge&logo=About.me&logoColor=white)](https://d3vil.tech)  
 # Hacking
 ![Kali](https://img.shields.io/badge/Kali_Linux-FD2424?style=for-the-badge&logo=kali-linux&logoColor=white) 
 # Coding
