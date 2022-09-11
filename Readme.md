@@ -4,7 +4,7 @@ class AlexBlackeyed:
     self.name = "Alex Blackeyed"
     self.languages = ["Python","HTML","Markdown"]
     self.tools = ["Vscode","Windows"]
-    self.frameworks = ["Django","Flask","TailwindCSS"]
+    self.frameworks = ["Django","Flask","TailwindCSS","Svelte"]
    def greet(self):
       print("Hey")
 me = AlexBlackeyed()
